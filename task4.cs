@@ -14,6 +14,7 @@ namespace Data_Types_and_Variables
             Console.WriteLine("Hello from Git Hub 2");
             Console.WriteLine("Hello from Git Hub change");
             Console.WriteLine("Changed in Github");
+            Console.WriteLine("Conflict down");
         }
     }
 }
