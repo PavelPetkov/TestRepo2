@@ -11,6 +11,7 @@ namespace Data_Types_and_Variables
         public static void Main(string[] args)
         {
             Console.WriteLine("Hello Git Hub");
+            Console.WriteLine("Hello from Git Hub 2");
         }
     }
 }
